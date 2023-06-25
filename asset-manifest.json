@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/resume-craft/static/css/main.f470d11b.css",
+    "main.js": "/resume-craft/static/js/main.56924c5d.js",
+    "static/media/resume.svg": "/resume-craft/static/media/resume.d98e87e21d9a2b5503f79953459ca38a.svg",
+    "index.html": "/resume-craft/index.html",
+    "main.f470d11b.css.map": "/resume-craft/static/css/main.f470d11b.css.map",
+    "main.56924c5d.js.map": "/resume-craft/static/js/main.56924c5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f470d11b.css",
+    "static/js/main.56924c5d.js"
+  ]
+}
