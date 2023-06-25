@@ -1,4 +1,4 @@
-#Resume Builder ✨
+Resume Builder ✨
 Resume Builder
 
 Resume Builder is a web application built with React that allows users to create professional resumes with ease. It provides all the essential features of a basic resume builder, including drag-and-drop functionality for section positioning and the ability to download the resume in PDF format. 📄💼
@@ -46,6 +46,8 @@ HTML 🌐
 CSS 🎨
 JavaScript 📜
 PDF Libraries (e.g., jsPDF) 📄
-
 Contributing 🤝
-Contributions to the Resume Builder project are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue on the GitHub repository.When contributing to this project, please ensure that you follow the established code conventions, make use of meaningful commit messages, and provide clear documentation for any changes or additions.
+Contributions to the Resume Builder project are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue on the GitHub repository.
+
+When contributing to this project, please ensure that you follow the established code conventions, make use of meaningful commit messages, and provide clear documentation for any changes or additions.
+
